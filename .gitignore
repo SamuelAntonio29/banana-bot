@@ -1,0 +1,4 @@
+node_modules/
+.env
+auth_banana/
+config/auth_banana/
